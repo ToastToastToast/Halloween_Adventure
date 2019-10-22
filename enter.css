@@ -12,11 +12,12 @@ h1 {
 
 }
 
-h3{
-  position: relative;
-  right: 10px;
-  bottom: 170px;
-  padding: 0px 20px 0px 500px;
+#e01{
+  padding: 0px 0px 0px 200px;
+
+}
+#e02{
+  padding:0px 0px 500px 700px;
 }
 
 a {
