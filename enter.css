@@ -34,11 +34,13 @@ h1 {
 }
 
 #e04{
-
+  position:relative;
+  padding: 0px 0px 0px 500px;
 }
 
 #e05{
-
+  position:relative;
+  padding:0px 0px 0px 700px;
 }
 
 a {
