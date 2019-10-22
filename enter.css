@@ -1,3 +1,5 @@
+
+
 body {
   margin: 30px auto;
   max-width: 1000px;
@@ -9,15 +11,20 @@ body {
 h1 {
   color: orange;
   padding: 100px 150px 200px 360px;
+   font-family: 'Aguafina Script';font-size: 50px;
 
 }
 
 #e01{
+  position:relative;
   padding: 0px 0px 0px 200px;
+   font-family: 'Aladin';font-size: 30px;
 
 }
 #e02{
+  position:relative;
   padding:0px 0px 500px 700px;
+   font-family: 'Aclonica';font-size: 22px;
 }
 
 a {
