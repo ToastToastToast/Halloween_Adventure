@@ -17,19 +17,20 @@ h1 {
 
 #e01{
   position:relative;
-  padding: 0px 0px 0px 200px;
+  padding: 0px 0px 0px 100px;
    font-family: 'Aladin';font-size: 30px;
 
 }
 #e02{
   position:relative;
-  padding:0px 0px 500px 700px;
+  top: -70px;
+  padding:0px 0px 0px 700px;
    font-family: 'Aclonica';font-size: 22px;
 }
 
 //for the woods Part
 #e03{
-  position:sticky;
+  position:relative;
   padding:0px 0px 0px 350px;
 }
 
