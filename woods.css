@@ -15,40 +15,24 @@ h1 {
 
 }
 
-#e01{
+#z01{
   position:relative;
-  padding: 0px 0px 0px 100px;
-   font-family: 'Aladin';font-size: 30px;
-
+  padding: 0px 0px 0px 0px;
 }
-#e02{
+#z02{
   position:relative;
-  top: -70px;
-  padding:0px 0px 0px 700px;
-   font-family: 'Aclonica';font-size: 22px;
+  padding:-50px 0px 0px 400px;
 }
-
-//for the woods Part
-#e03{
+#z03{
   position:relative;
-  padding:0px 0px 0px 350px;
+  padding:-100px 0px 0px 700px;
 }
 
-#e04{
-  position:relative;
-  padding: 0px 0px 0px 500px;
-}
 
-#e05{
-  position:relative;
-  padding:0px 0px 0px 700px;
-}
+img{
+  margin:-50px 0px 20px 390px;
 
-#e06{
-  position:relative;
-  
 }
-
 a {
 color: #D73CFD;
 text-decoration: none;
