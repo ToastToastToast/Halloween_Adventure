@@ -1,6 +1,6 @@
 body {
   margin: 30px auto;
-  max-width: 1200px;
+  max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
@@ -14,30 +14,19 @@ h1 {
 
 h2{
   color: orange;
-  padding: 0px 200px 100px 400px;
-  margin-bottom: 100px;
+  padding: 0px 150px 300px 360px;
+   font-family: 'Aguafina Script';font-size: 30px;
 }
 
-#b01{
+
+#k01{
   position:relative;
-  padding: 0px 0px 0px 100px;
+  padding: 0px 0px 0px 50px;
 font-size:25px;
-
 }
-#b02{
+#k02{
   position:relative;
   top: -70px;
-  padding:0px 0px 0px 700px;
+  padding:0px 0px 0px 650px;
   font-size:25px;
 }
-
-img{
-  margin:-50px 0px 20px 450px;
-
-}
-}
-a {
-  color: #D73CFD;
-  text-decoration: none;
-
-  }
