@@ -7,43 +7,50 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
 }
-
+/*
 h1 {
   color: orange;
   padding: 100px 150px 200px 360px;
    font-family: 'Aguafina Script';font-size: 50px;
 
 }
-
+*/
 #e01{
-  position:relative;
-  padding: 0px 0px 0px 100px;
-   
+  color:#D73CFD;
+  font-family:serif;
+  font-size:15px;
+
+
 
 }
-#e02{
+
+#darkForestText{
+  color:#D73CFD;
   position:relative;
-  top: -70px;
-  padding:0px 0px 0px 700px;
+  right: -130px;
+  top:350px;
    font-family: 'Aclonica';font-size: 22px;
 }
 
-//for the woods Part
-#e03{
+
+#neighborText{
+  color:#D73CFD;
   position:relative;
-  padding:0px 0px 0px 350px;
+  right: -800px;
+   font-family: 'Aclonica';font-size: 22px;
 }
 
-#e04{
+#neighborImage{
   position:relative;
-  padding: 0px 0px 0px 500px;
+  right: -700px;
+  top: -450px;
 }
-
+/*
 #e05{
   position:relative;
   padding:0px 0px 0px 700px;
 }
-
+*/
 #e06{
   position:relative;
 

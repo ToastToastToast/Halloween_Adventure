@@ -6,33 +6,50 @@ body {
   padding: 30px 20px;
 }
 
-h1 {
+#title {
   color: orange;
-  padding: 100px 150px 200px 500px;
    font-family: 'Aguafina Script';font-size: 50px;
 }
 
-h2{
-  color: orange;
-  padding: 0px 200px 100px 400px;
-  margin-bottom: 100px;
+#gif{
+  right:-100px;
 }
 
-#t01{
-  color:orange;
+#creekImage{
   position:relative;
-  padding:0px 0px 0px 100px;
+  top:-100px;
 }
-#t02{
-  color:orange;
-    margin-top:-50px;
+
+#grottoImage{
   position:relative;
-  padding-top:-150px;
-  padding:0px 0px 0px 600px;
+  top:-100px;
+  right:-70px;
 }
-#t03{
-  color:orange;
-  margin-top:-50px;
+
+#fieldImage{
   position:relative;
-  padding:0px 0px 500px 1000px;
+  top:-100px;
+  right:-50px;
+}
+
+
+#creek{
+  color:orange;
+  position:relative;
+  font-size:25px;
+  right:-110px;
+}
+#grotto{
+  color:orange;
+  position:relative;
+  font-size:25px;
+  right:-550px;
+  top:-60px;
+}
+#field{
+  color:orange;
+  position:relative;
+  font-size:25px;
+  right:-1000px;
+  top:-120px;
 }
