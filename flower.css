@@ -8,25 +8,25 @@ body {
 
 h1 {
   color: orange;
-  padding: 100px 150px 200px 360px;
    font-family: 'Aguafina Script';font-size: 50px;
 }
 
 h2{
   color: orange;
-  padding: 0px 150px 300px 360px;
    font-family: 'Aguafina Script';font-size: 30px;
 }
 
 
-#k01{
+#deeper{
   position:relative;
-  padding: 0px 0px 0px 50px;
 font-size:25px;
+left:50px;
+color:#ac54ff;
 }
-#k02{
+#around{
   position:relative;
-  top: -70px;
-  padding:0px 0px 0px 650px;
+  top: -60px;
   font-size:25px;
+  left:600px;
+  color:#ac54ff;
 }

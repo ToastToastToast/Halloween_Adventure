@@ -1,6 +1,6 @@
 body {
   margin: 30px auto;
-  max-width: 1100px;
+  max-width: 1200px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
@@ -10,31 +10,29 @@ h1 {
   color: orange;
    font-family: 'Aguafina Script';font-size: 50px;
 }
-
 h2{
-  color: orange;
-  margin-bottom: 100px;
+  color:orange;
+}
+h3{
+  color:orange;
 }
 
-#tower{
-  color:orange;
+#pot{
   position:relative;
+  color:purple;
+  font-size:30px;
   left:100px;
-  top:40px;
-  font-size:30px;
-}
-#scarecrow{
-  color:orange;
-  left:450px;
-  position:relative;
-  bottom:40px;
-  font-size:30px;
 
 }
-#witch{
-  color:orange;
-  font-size:30px;
+
+#spider{
   position:relative;
-left:840px;
-bottom:110px;
+  color:purple;
+  font-size:30px;
+  left:700px;
+  bottom:75px;
+}
+
+a{
+    color: #a834eb;
 }

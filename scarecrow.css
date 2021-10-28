@@ -1,6 +1,6 @@
 body {
   margin: 30px auto;
-  max-width: 1100px;
+  max-width: 1200px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
@@ -12,29 +12,26 @@ h1 {
 }
 
 h2{
-  color: orange;
-  margin-bottom: 100px;
+  color:orange;
 }
 
-#tower{
+h3{
   color:orange;
+}
+
+
+#ask{
   position:relative;
+  color:purple;
   left:100px;
-  top:40px;
   font-size:30px;
+  top:50px;
 }
-#scarecrow{
-  color:orange;
-  left:450px;
-  position:relative;
-  bottom:40px;
-  font-size:30px;
 
-}
-#witch{
-  color:orange;
-  font-size:30px;
+#avoid{
   position:relative;
-left:840px;
-bottom:110px;
+  color:purple;
+  bottom:25px;
+  left:800px;
+  font-size:30px;
 }

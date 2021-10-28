@@ -8,7 +8,6 @@ body {
 
 h1 {
   color: orange;
-  padding: 100px 150px 200px 360px;
    font-family: 'Aguafina Script';font-size: 50px;
 }
 
@@ -18,26 +17,45 @@ h2{
   margin-bottom: 100px;
 }
 
-#b01{
+#title{
   position:relative;
-  padding: 0px 0px 0px 100px;
-font-size:25px;
-
+  left:50px;
 }
-#b02{
+
+#mushrooms{
+  position:relative;
+  right:70px;
+}
+
+#cross{
+  position:relative;
+  right:-150px;
+font-size:25px;
+  color: #D73CFD;
+}
+#around{
   position:relative;
   top: -70px;
-  padding:0px 0px 0px 700px;
+  right:-800px;
   font-size:25px;
+    color: #D73CFD;
 }
 
-img{
-  margin:-50px 0px 20px 450px;
+#gif{
+  position:relative
 
 }
+a{
+    color: #a834eb;
 }
-a {
-  color: #D73CFD;
+
+#text {
+  color: plum;
   text-decoration: none;
 
   }
+/*around river*/
+#compass{
+  position:relative;
+  top:-100px;
+}

@@ -1,0 +1,37 @@
+body {
+  margin: 30px auto;
+  max-width: 1200px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+
+h1{
+  color: orange;
+   font-family: 'Aguafina Script';font-size: 50px;
+}
+
+#run{
+  position:relative;
+  color: #D73CFD;
+left:300px;
+font-size:30px;
+}
+
+#runText{
+  color:orange;
+  font-size:20px;
+}
+
+#skateboard{
+  position:relative;
+  color: #D73CFD;
+left:700px;
+bottom:75px;
+font-size:30px;
+}
+
+#skateboardText{
+  color: orange;
+
+}
